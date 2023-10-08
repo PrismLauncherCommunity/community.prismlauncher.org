@@ -2,8 +2,8 @@
     border-bottom: 2px solid var(--primary-text-muted);
 }
 
-.wiki-content, .wiki-toc {
-  margin-top: 1em;
+.wiki-content .content {
+  margin-top: 2em;
 }
 
 .wiki-toc {

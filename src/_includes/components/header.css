@@ -5,7 +5,11 @@ nav {
   display: flex;
   justify-content: center;
   background-color: var(--background);
-  border-radius: 0 0 1em 1em;
+  border-radius: 1em;
+}
+
+header {
+  margin-bottom: 1em;
 }
 
 .main-menu {

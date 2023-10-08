@@ -1,9 +1,7 @@
 ---
-permalink: /
-tags: nav
 eleventyNavigation:
-  key: Home
-  order: 1
+  key: Terraria Server
+  order: 3
 --- 
 
 # Welcome to the Prism Community

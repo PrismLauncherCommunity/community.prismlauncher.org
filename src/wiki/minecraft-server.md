@@ -1,9 +1,7 @@
 ---
-permalink: /
-tags: nav
 eleventyNavigation:
-  key: Home
-  order: 1
+  key: Minecraft Server
+  order: 2
 --- 
 
 # Welcome to the Prism Community
